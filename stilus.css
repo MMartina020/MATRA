@@ -75,9 +75,18 @@ A.link:link {
     margin-right:15%;
 }
 
-.kep
-    width: 15%;
+.kep{
+    width:15%;
     height: auto;
     padding: 2%;
     padding-bottom: 25;
+    alt:"kirándulás";
+    height: 150px;
+    float: right;
+}
+
+.valami{
+    color :darkgreen;
+    size:5px;
+    width:80%;
 }
